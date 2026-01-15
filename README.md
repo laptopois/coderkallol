@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kallol 👋
 
 🚀 **Frontend Developer | React | TypeScript | Next.js | Tailwind CSS**  
 I'm a passionate frontend developer who loves building modern, responsive, and scalable web applications. I focus on clean UI, performance, and code quality — always learning and improving.
