@@ -23,7 +23,7 @@ I'm a passionate frontend developer who loves building modern, responsive, and s
 ### 🌐 Connect with Me
 - **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
 - **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
+- **Twitter/X:** [@officialkallol](https://twitter.com/officialkallol)  
 - **Email:** your@email.com  
 
 ---
