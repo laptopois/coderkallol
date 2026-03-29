@@ -8,8 +8,8 @@ I'm a passionate frontend developer who loves building modern, responsive, and s
 ### 🧩 Tech Stack
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS  
 - **Styling:** Tailwind CSS, Shadcn UI, DaisyUI  
-- **Tools:** Git, VS Code, Vite, Figma, Postman  
-- **Learning:** Redux Toolkit, Jest, React Testing Library
+- **Tools:** Git, VS Code, Vite, Figma, Postman, Cursor  
+- **Learning:** Redux Toolkit, Jest, React Testing Library, AI Tools
 
 ---
 
