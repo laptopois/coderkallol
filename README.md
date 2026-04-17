@@ -28,4 +28,4 @@ I'm a passionate frontend developer who loves building modern, responsive, and s
 
 ---
 
-⭐ **Check out my pinned projects below!**
+⭐ **Check out my pinned projects below!** 
